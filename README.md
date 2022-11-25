@@ -1,0 +1,2 @@
+# SUPPORT-VECTOR-MACHINE
+Character Recognition using SUPPORT VECTOR MACHINE
